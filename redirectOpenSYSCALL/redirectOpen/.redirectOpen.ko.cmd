@@ -1,0 +1,1 @@
+cmd_/home/ifr33/workspace/redirectOpen/redirectOpen.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ifr33/workspace/redirectOpen/redirectOpen.ko /home/ifr33/workspace/redirectOpen/redirectOpen.o /home/ifr33/workspace/redirectOpen/redirectOpen.mod.o

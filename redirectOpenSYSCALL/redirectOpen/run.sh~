@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo insmod redirectOpen.ko /home/ifr33/workspace/redirectOpen/dummyfile.txt /home/ifr33/workspace/redirectOpen/hiddenfile.txt
